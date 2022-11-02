@@ -32,7 +32,7 @@ const int mqtt_port = 1883;                   //MQTT port#
 
 //Stevens WiFi Setting variables
 const char* ssid = "Stevens-IoT";             //Stevens Wi-Fi SSID (Service Set IDentifier)
-const char* password = "nMN882cmg7";          //Stevens Wi-Fi Password
+const char* password = "***";          //Stevens Wi-Fi Password
 
 //WiFi Define
 WiFiClient espClient;
