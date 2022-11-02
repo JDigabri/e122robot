@@ -24,8 +24,8 @@ boolean flag_payload;
 
 //MQTT Setting variables
 const char* mqtt_server = "155.246.62.110";   //MQTT Broker(Server) Address
-const char* MQusername = "jojo";              //MQTT username
-const char* MQpassword = "hereboy";           //MQTT password
+const char* MQusername = "**";              //MQTT username
+const char* MQpassword = "***";           //MQTT password
 //const char* MQtopic = "louis_lidar1";         //MQTT Topic for Arena_1 (EAS011 - South)
 const char* MQtopic = "louis_lidar2";       //MQTT Topic for Arena_2 (EAS011 - North)
 const int mqtt_port = 1883;                   //MQTT port#
